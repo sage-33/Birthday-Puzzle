@@ -1,4 +1,6 @@
 /**
+ * ADD DESCRIPTION!!!!
+ *
  * @author sagesilberman
  *
  */
@@ -18,10 +20,9 @@ public class BDayM {
 		duplicates = dup;
 	}
 
-	// might need to fix the code true
 	/**
 	 * Returns <code>true</code> if the random birthday being tested is the same as
-	 * the ones set to true
+	 * the ones set to <code>true</code>
 	 * 
 	 * @return <code>true</code> if the random birthday being tested is the same as
 	 *         the ones set to true ; <code>false</code> otherwise is false
