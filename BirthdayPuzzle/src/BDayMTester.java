@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Given any number of people in a room (people ct) what is the experimental
- * probability that two people have the same birthday? Code runs ten-thousand
+ * probability that n people have the same birthday? Code runs ten-thousand
  * experiments
  */
 public class BDayMTester {

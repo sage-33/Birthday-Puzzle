@@ -1,5 +1,6 @@
 /**
- * ADD DESCRIPTION!!!!
+ * Represents any number of people in a room resulting with the probability n
+ * people have the same birthday.
  *
  * @author sagesilberman
  *
@@ -22,7 +23,7 @@ public class BDayM {
 
 	/**
 	 * Returns <code>true</code> if the random birthday being tested is the same as
-	 * the ones set to <code>true</code>
+	 * the ones set to <code>true</code>, otherwise is false
 	 * 
 	 * @return <code>true</code> if the random birthday being tested is the same as
 	 *         the ones set to true ; <code>false</code> otherwise is false
